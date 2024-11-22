@@ -1,3 +1,8 @@
+```
+NAME: MIRTYUNJAY S
+REG NO: 24013065
+EXPRIMENT NO:1 STUDY OF BASIC GATES
+```
 ### study-of-basic-gates
 
 **AIM:** 
@@ -63,17 +68,25 @@ Y= A⊕B
 
 
 **PROGRAM**
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
-
+```
+module exp1a(a,b,y1,y2,y3,y4,y5,y6,y7);
+input a,b;
+output y1,y2,y3,y4,y5,y6,y7;
+and(y1,a,b,);
+or(y2,a,b);
+not(y3,a,b);
+xor(y4,a,b);
+xnor(y5,a,b);
+nand(y6,a,b);
+nor(y7,a,b);
+endmodule
+``` 
+ **Logic symbol & Truthtable**
+"C:\Users\admin\Downloads\Screenshot 2024-11-17 101644 (3).png"
 **RTL realization Output:** 
 
 **RTL**
 
 **Result:**
-
+Thus truth table of logic gates in Quartus II using Verilog programming as verified
 
