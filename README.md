@@ -84,9 +84,8 @@ endmodule
  **Logic symbol & Truthtable** 
  ```
  "C:\Users\admin\Pictures\symbolys of logic gates.html"
- ```
  "C:\Users\admin\Downloads\Screenshot 2024-11-17 101644 (3).png"
-
+```
 **RTL realization Output:** 
 
 **RTL**
