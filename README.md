@@ -87,7 +87,9 @@ endmodule
  "C:\Users\admin\Downloads\Screenshot 2024-11-17 101644 (3).png"
 ```
 **RTL realization Output:** 
+
 "C:\Users\admin\Downloads\Screenshot 2024-11-17 094627 (1).png"
+
 **RTL**
 
 **Result:**
