@@ -1,7 +1,6 @@
 ```
 NAME: MIRTYUNJAY S
 REG NO: 24013065
-EXPRIMENT NO:1 STUDY OF BASIC GATES
 ```
 ### study-of-basic-gates
 
@@ -82,10 +81,12 @@ nor(y7,a,b);
 endmodule
 ``` 
  **Logic symbol & Truthtable** 
- "C:\Users\admin\Downloads\Screenshot 2024-11-17 101644 (3).png"
+ ![WhatsApp Image 2024-11-26 at 11 45 00 AM](https://github.com/user-attachments/assets/88e5738c-8e65-4bb9-a415-f6c229abbefe)
+
 **RTL realization Output:** 
 
-"C:\Users\admin\Downloads\Screenshot 2024-11-17 094627 (1).png"
+![WhatsApp Image 2024-11-26 at 11 46 02 AM](https://github.com/user-attachments/assets/327f4f08-c9e3-4da7-9a7e-50bb0e4ed2b4)
+
 
 **RTL**
 
